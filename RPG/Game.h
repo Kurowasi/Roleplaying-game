@@ -1,0 +1,12 @@
+#pragma once
+void Game_Main();
+void Chara_Draw();
+void Chara_Move();
+void Game_Init();
+void Chara_Detection();
+void Chara_Encount();
+bool Get_Game_End_Flag();
+void Game_Battle();
+int Get_Count_Stage();
+void Check_Game_End();
+void Game_Chara();
